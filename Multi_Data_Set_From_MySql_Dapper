@@ -1,1 +1,2 @@
-
+-- If the mysql store procedure return more than one qeury date.
+--For example if there is different types of filters dropdown and we return in the single api call.
